@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony Lassiter
 - 👀 I’m interested in Ruby on Rails, Elixir and building great products
-- 🌱 I’m currently learning Elixir
+- 🌱 I've been building Ruby on Rails projects for over 12 years
 - 📫 How to reach me https://www.linkedin.com/in/anthonylassiter/
 
 <!---
